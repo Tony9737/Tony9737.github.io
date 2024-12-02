@@ -1,2 +1,2 @@
 # personal-web
-just normal a web
+just a normal web
